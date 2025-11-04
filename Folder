@@ -1,0 +1,20 @@
+PulseApp/
+│
+├── App.js
+├── firebase.js
+├── app.json
+├── package.json
+├── README.md
+│
+└── screens/
+    ├── LoginScreen.js
+    ├── RegisterScreen.js
+    ├── HomeScreen.js
+    ├── LiveScreen.js
+    ├── EntertainmentScreen.js
+    ├── ProfileScreen.js
+    ├── MessagesScreen.js
+    ├── SecurityScreen.js
+    ├── PostScreen.js
+    ├── CommentsScreen.js
+    └── SubscriptionScreen.js
